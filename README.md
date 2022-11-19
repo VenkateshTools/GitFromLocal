@@ -10,3 +10,6 @@ git branch
 git checkout -b featureSandbox 
 //created new branch 
 // remove -b to shift between branches
+git diff main 
+//check diff between the current branch and the mentioned branch
+
