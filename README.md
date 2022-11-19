@@ -7,4 +7,6 @@
 git remote add origin https://github.com/VenkateshTools/GitFromLocal.git
 git push origin main   
 git branch
-git checkout -b featureSandbox //created new branch
+git checkout -b featureSandbox 
+//created new branch 
+// remove -b to shift between branches
